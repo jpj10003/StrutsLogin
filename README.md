@@ -1,3 +1,3 @@
 # StrutsLogin
-sample struts login application
+sample struts test login application
 This will be used to do a sample login
